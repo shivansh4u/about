@@ -1,7 +1,10 @@
 About Me
+
 Hi there! I'm a passionate data analyst with a strong background in extracting insights from complex datasets. I enjoy working with data to uncover meaningful patterns and trends that drive informed decision-making. With a keen eye for detail and a knack for problem-solving, I strive to turn raw data into actionable insights.
 
+
 Skills
+
 Data Analysis: Proficient in analyzing large datasets, identifying trends, and uncovering valuable insights. Skilled in data cleaning, manipulation, and visualization.
 
 Statistical Analysis: Experienced in applying statistical techniques to interpret data, validate hypotheses, and make data-driven recommendations.
@@ -20,13 +23,19 @@ Problem-solving: Strong analytical and problem-solving skills with the ability t
 
 Communication: Excellent verbal and written communication skills, with the ability to present complex data analysis findings to both technical and non-technical stakeholders.
 
+
 Education
+
 Bachelor's Degree in Data Analysis, LNCT University
+
 Projects
+
 Check out my GitHub repository for a collection of data analysis projects that showcase my skills and expertise in the field. From sales analysis to customer segmentation, these projects demonstrate my ability to extract valuable insights from diverse datasets.
 
 Contact
+
 GitHub: github.com/shivansh4u
 Email: shivansh4u1@gmail.com
 LinkedIn: https://www.linkedin.com/in/shivam-agrawal-74a963213
+
 Feel free to reach out to me if you have any questions or opportunities for collaboration. I'm always excited to connect with fellow data enthusiasts!
