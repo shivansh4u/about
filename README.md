@@ -28,5 +28,5 @@ Check out my GitHub repository for a collection of data analysis projects that s
 Contact
 GitHub: github.com/shivansh4u
 Email: shivansh4u1@gmail.com
-LinkedIn: linkedin.com/in/shivam-agrawal-74a963213
+LinkedIn: https://www.linkedin.com/in/shivam-agrawal-74a963213
 Feel free to reach out to me if you have any questions or opportunities for collaboration. I'm always excited to connect with fellow data enthusiasts!
